@@ -164,11 +164,12 @@ header.masthead {
   padding-bottom: 50px;
   text-align: center;
   color: white;
-   background: grey; /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(grey, black); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(grey, black); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(grey, black); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(grey, black); /* Standard syntax */ 
+  background-image: url("../img/portfolio/redTile.gif");
+   /*background: grey;
+    background: -webkit-linear-gradient(grey, black); 
+    background: -o-linear-gradient(grey, black); 
+    background: -moz-linear-gradient(grey, black);
+    background: linear-gradient(grey, black); */
   }
   header.masthead img {
     display: block;
