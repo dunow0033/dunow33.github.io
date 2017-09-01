@@ -105,7 +105,7 @@ section.success {
   font-weight: 400;
   text-transform: lowercase;
   border: none;
-   background: blue;
+   background: black;
   }
   #mainNav a:focus {
     outline: none; }
@@ -149,10 +149,12 @@ section.success {
     #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
       color: white;
       border-radius: 3px;
-      background: #18BC9C; }
+      //background: #18BC9C;
+      background: black; }
       #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
         color: white;
-        background: #18BC9C; }
+        //background: #18BC9C;
+        background: black; }
   #mainNav.navbar-shrink {
     padding-top: 10px;
     padding-bottom: 10px; }
@@ -163,8 +165,8 @@ header.masthead {
   padding-top: 100px;
   padding-bottom: 50px;
   text-align: center;
-  color: white;
-  background-image: url("../img/portfolio/redTile.gif");
+  color: black;
+  background-image: url("../img/portfolio/lightCity.png");
    /*background: grey;
     background: -webkit-linear-gradient(grey, black); 
     background: -o-linear-gradient(grey, black); 
