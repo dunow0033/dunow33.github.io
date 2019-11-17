@@ -450,7 +450,7 @@ header.video {
   margin: 1%; }
   .portfolio-grid .mix .portfolio-wrapper {
     position: relative !important;
-    /*overflow: hidden;*/
+    overflow: hidden;
     cursor: pointer;
     background: #222; }
     .portfolio-grid .mix .portfolio-wrapper img {
