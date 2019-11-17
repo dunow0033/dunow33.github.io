@@ -492,6 +492,7 @@ header.video {
   .portfolio-grid .mix:hover .portfolio-wrapper .caption {
     bottom: 0; }
 
+
 @media (min-width: 768px) {
   .portfolio-grid .mix {
     width: 31%;
