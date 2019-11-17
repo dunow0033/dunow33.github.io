@@ -449,12 +449,12 @@ header.video {
   width: 48%;
   margin: 1%; }
   .portfolio-grid .mix .portfolio-wrapper {
-    position: relative !important;
+    /*position: relative !important;*/
     overflow: hidden;
     cursor: pointer;
     background: #222; }
     .portfolio-grid .mix .portfolio-wrapper img {
-      /*position: relative;*/
+      position: relative;
       max-width: 100%;
       -webkit-filter: grayscale(0);
       filter: grayscale(0);
