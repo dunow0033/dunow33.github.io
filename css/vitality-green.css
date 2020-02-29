@@ -456,7 +456,7 @@ header.video {
     .portfolio-grid .mix .portfolio-wrapper img {
       position: relative;
       max-width: 100%;
-      min-height: 100px;
+      min-height: 300px;
       -webkit-filter: grayscale(0);
       filter: grayscale(0);
       -webkit-transition: all .5s;
