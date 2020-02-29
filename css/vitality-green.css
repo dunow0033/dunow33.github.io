@@ -461,8 +461,6 @@ header.video {
       -webkit-transition: all .5s;
       -moz-transition: all .5s;
       transition: all .5s; }
-      .portfolio-grid .mix .portfolio-wrapper img a {
-        min-height: 250px; }
       .portfolio-grid .mix .portfolio-wrapper img:hover {
         -webkit-filter: grayscale(1);
         filter: grayscale(1); }
